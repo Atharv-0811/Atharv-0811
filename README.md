@@ -44,9 +44,9 @@
 
 <p>
   <a href="https://www.linkedin.com/in/atharv-chinchkar/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://instagram.com/atharvchinchkar" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="30" style="filter: invert(1);" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
