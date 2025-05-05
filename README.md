@@ -22,7 +22,7 @@
 
 - 🌱 Always learning something new — currently diving deeper into **Go**, **Unity**, and **TensorFlow**
 - 💬 I love talking about tech, design, creative problem-solving, and music production
-- 🎧 Music fuels my flow — I’m also part of a multi-genre music duo [Music Portfolio](https://www.thisisdualnature.com/)
+- 🎧 Music fuels my flow — I’m also part of a multi-genre music duo <a href="https://www.thisisdualnature.com/" target="_blank">Music Portfolio</a>
 - 📫 Reach me at: **atharvchinchakr@gmail.com**
 
 ---
