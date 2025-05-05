@@ -1,40 +1,41 @@
-<h1 align="center">Hi 👋, I'm Your Name</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h1 align="center">Hi 👋, I'm [Your Name]</h1>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
-
-- 🔭 I’m currently working on **My Cool Project**
-- 🌱 I’m currently learning **React, Node.js, and Machine Learning**
-- 💬 Ask me about **Python, Web Development, and Unity**
-- 📫 How to reach me: **your.email@example.com**
-- ⚡ Fun fact: I love music production and designing UIs
+<p align="center">
+  A versatile and curious Computer Science student passionate about solving problems, exploring technologies, and continuously learning across disciplines.
+</p>
 
 ---
 
-### 🛠️ Languages and Tools:
-<p align="left">
+### 👨‍💻 About Me
+
+- 🔭 I’m currently working on **Machine Learning projects and full-stack web apps**
+- 🌱 I’m learning **Go, Reinforcement Learning, and blockchain concepts**
+- 💬 Ask me about **Python, C++, web development, and Unity**
+- 🎵 Fun fact: I produce music and enjoy blending creativity with code
+- 📫 Reach me at **your.email@example.com**
+
+---
+
+### 🛠️ Languages & Tools
+
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <!-- Add more icons as needed -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
 </p>
 
 ---
 
-### 📊 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" width="48%" />
-</p>
+### 🌐 Connect with Me
 
----
-
-### 📫 Connect with Me:
-<p align="left">
-  <a href="https://linkedin.com/in/yourlinkedin" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="yourlinkedin" height="30" width="40" />
+<p>
+  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/yourinsta" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="yourinsta" height="30" width="40" />
+  <a href="https://instagram.com/yourinsta" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
